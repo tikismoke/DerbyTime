@@ -101,9 +101,9 @@
           <div class="score-display" id="scoreA">0</div>
           <div class="d-flex justify-content-center flex-wrap">
             <button class="btn btn-light m-1" data-score="A" data-delta="1">+1</button>
-            <button class="btn btn-light m-1" data-score="A" data-delta="5">+4</button>
+            <button class="btn btn-light m-1" data-score="A" data-delta="4">+4</button>
             <button class="btn btn-light m-1" data-score="A" data-delta="-1">−1</button>
-            <button class="btn btn-light m-1" data-score="A" data-delta="-5">−4</button>
+            <button class="btn btn-light m-1" data-score="A" data-delta="-4">−4</button>
           </div>
         </div>
         <div class="col-md-6 text-center">
@@ -111,9 +111,9 @@
           <div class="score-display" id="scoreB">0</div>
           <div class="d-flex justify-content-center flex-wrap">
             <button class="btn btn-light m-1" data-score="B" data-delta="1">+1</button>
-            <button class="btn btn-light m-1" data-score="B" data-delta="5">+4</button>
+            <button class="btn btn-light m-1" data-score="B" data-delta="4">+4</button>
             <button class="btn btn-light m-1" data-score="B" data-delta="-1">−1</button>
-            <button class="btn btn-light m-1" data-score="B" data-delta="-5">−4</button>
+            <button class="btn btn-light m-1" data-score="B" data-delta="-4">−4</button>
           </div>
         </div>
       </div>
